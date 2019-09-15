@@ -1,10 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Playball&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Arimo&display=swap');
 
+
+.picture-frame {
+
+}
+
 .fb-like {
-	margin: 40px;
+	margin: 20px;
 	position: absolute;
 	left: 10px;
+	top: -26px;
 }
 
 .icon {
@@ -27,7 +33,7 @@
   opacity: 0.5;
   margin-left: -10px;
   margin-right: -10px;
-  margin-bottom: -16px;
+  margin-bottom: -100px;
   margin-top: -16px;
 }
 

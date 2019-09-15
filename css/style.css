@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css?family=Playball&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Arimo&display=swap');
+
+.fb-like {
+	margin: 40px;
+	position: absolute;
+	left: 10px;
+}
+
+.icon {
+	width: 80px;
+	margin-top: 30px;
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-bottom: 20px;
+}
+
+.footer {
+  position: static;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 101.4%;
+  background-color: white;
+  color: white;
+  text-align: center;
+  opacity: 0.5;
+  margin-left: -10px;
+  margin-right: -10px;
+  margin-bottom: -16px;
+  margin-top: -16px;
+}
+
+.welcome {
+	font-size: 80px;
+	margin: 30px auto;
+}
+
+.text-margin-middle {
+	margin: 35px;
+}
+
+#container {
+	display: flex;
+	width: 1200px;
+	background-color: white;
+	margin: auto;
+	margin-top: 100px;
+	color: white;
+}
+#left {
+	width: 400px;
+	float: left;
+}
+#middle {
+	width: 400px;
+ 	background-color: #fffded;
+  	color: red;
+  	text-align: center;
+ }
+
+#right {
+	width: 400px;
+	float: right;
+}
+.schedule-session {
+	font-family: serif;
+	font-style: italic;
+	color: black;
+}
+.main-box-text {
+	color: black;
+	font-family: arial;
+
+}
+
+hr {
+	background-color: green;
+	height: 2px;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 52%;
+  }
+#font-style-links {
+	font-style: italic;
+	font-size: 10px;
+	text-align: center;
+	word-spacing: 60px;
+}
+
+#feature-logo {
+	width: 270px;
+	text-align: center;
+	align-items: center;
+}
+
+body {
+	background-image: url(https://r1.ilikewallpaper.net/ipad-air-wallpapers/download/7099/Soap-Bubbles-2-iPad-4-wallpaper-ilikewallpaper_com.jpg?fit=scale);
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: arial;
+}
+h1 {
+	font-size: 28px;
+	text-align: center;
+	color: white;
+}
+a {
+	font-size: 23px;
+	font-family: serif;
+	color: white;
+	text-decoration: underline;
+	transition: color 0.2s;
+}
+a:hover {
+	/* color: #59c272; */
+	color: #609661;
+	text-decoration: none;
+
+}
+h2 {
+	font-size: 16px;
+	color: white;
+}
+p {
+	font-size: 14;
+	color: white;
+}
